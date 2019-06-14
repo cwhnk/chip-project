@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hua Rongdao</string>
+    <string name="start_game">开始游戏</string>
+    <string name="quit_game">离开游戏</string>
+    <string name="game_step">0</string>
+    <string name="win_game">获取成功！  使用步数：</string>
+    <string name="is_win">完成 步数：</string>
+    <string name="is_not_win">未完成</string>
+    <string name="one">第一关</string>
+    <string name="two">第二关</string>
+    <string name="three">第三关</string>
+</resources>

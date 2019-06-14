@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="backgroundWhite">#fffaf0</color>
+    <color name="menuButtonText">#fff</color>
+    <color name="menuButton">#b0c4de</color>
+    <color name="levelTitle">#b0c4de</color>
+</resources>
